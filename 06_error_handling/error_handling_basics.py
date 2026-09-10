@@ -1,3 +1,4 @@
+# file handling
 file = open('text.txt','w')
 
 try:
